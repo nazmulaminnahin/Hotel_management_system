@@ -1,5 +1,9 @@
 # Hotel Management System
 
+![Java](https://img.shields.io/badge/Language-Java-orange?style=for-the-badge&logo=openjdk)
+![OOP](https://img.shields.io/badge/Architecture-Modular%20OOP-blue?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Complete-success?style=for-the-badge)
+
 A simple, modular Java console application built to manage hotel room reservations, food orders, and checkout bills. 
 
 Developed by **NAZMUL AMIN**.
